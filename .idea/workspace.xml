@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac485979-a13f-4c6f-af68-b812bd9e87ec" name="Changes" comment="Criando Projeto controle de fluxo" />
+    <list default="true" id="ac485979-a13f-4c6f-af68-b812bd9e87ec" name="Changes" comment="Criando Projeto controle de fluxo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/candidatura/ProcessoSeletivo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +42,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/felipem.medeiros/Documents/02-cursos/java/controle-de-fluxo/src/main/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\felipem.medeiros\Documents\02-cursos\java\controle-de-fluxo\src\main\java" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="controle_fluxo.Main" />
